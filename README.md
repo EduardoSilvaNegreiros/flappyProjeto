@@ -28,11 +28,4 @@ O principal objetivo foi aprender e consolidar conceitos de programação em C#,
 - **Sistema de pontuação:** Acompanhe sua pontuação conforme avança no jogo.  
 - **Colisões e reinício automático:** O jogo reinicia ao colidir com obstáculos ou sair da área de jogo.  
 
----
 
-## 🛠️ Como Rodar o Projeto
-
-1. Certifique-se de ter o **Visual Studio 2022** instalado em sua máquina.  
-2. Clone este repositório:  
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
